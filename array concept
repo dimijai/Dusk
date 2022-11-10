@@ -1,0 +1,5 @@
+Array: An array is an object that can store multiple values at once. 
+
+For example, 
+const words = ['hello', 'world', 'welcome']; 
+Here, words is an array.
